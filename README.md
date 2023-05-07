@@ -1,6 +1,8 @@
 # Restless Syndrome
 <div>A small game project for Advanced Programming - UET</div>
-This game was made based on: Restless Wing Syndrome - from GMTK GameJam 2020 by LEKO
+<div>This game was made based on: Restless Wing Syndrome - from GMTK GameJam 2020 by LEKO</div>
+
+<div> About the game: A poor bird have a restless syndrome, he can't control his wing, help him gets his food </div>
 
 ## How to install
 - Download this repos to your device
