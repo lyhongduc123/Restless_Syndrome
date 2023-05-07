@@ -1,5 +1,5 @@
 # Restless Syndrome
-A small game project for Advanced Programming - UET
+<div>A small game project for Advanced Programming - UET</div>
 This game was made based on: Restless Wing Syndrome - from GMTK GameJam 2020 by LEKO
 
 ## How to install
